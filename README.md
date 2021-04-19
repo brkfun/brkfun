@@ -31,6 +31,7 @@ I'm an athlete which doesnt try to run faster try to run stable and act always t
 ## Companies I'm consulting
 
 - Kamion.co `` Full ignition as a DevOps (gitlab server and all autonomation "CI/CD" from zero to zero downtime)  ``
+- HijyenKod `` Full ignition as a DevOps and producing product for better operation space (gitlab server and all autonomation "CI/CD" from nothing to zero downtime)(WIP)  ``
 
 <p>
 <a href="https://www.linkedin.com/in/buhack/">
