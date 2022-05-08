@@ -28,10 +28,6 @@ I'm an athlete which doesnt try to run faster try to run stable and act always t
 - I've already worked for Erstream Team ``As a Developer`` for 8 months
 - And more...
 
-## Companies I'm consulting
-
-- Kamion.co `` Full ignition as a DevOps (gitlab server and all autonomation "CI/CD" from zero to zero downtime)  ``
-- HijyenKod `` Full ignition as a DevOps and produces for better operation space (gitlab server and all autonomation "CI/CD" from nothing to zero downtime)(WIP)  ``
 
 <p>
 <a href="https://www.linkedin.com/in/buhack/">
