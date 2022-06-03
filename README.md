@@ -1,29 +1,24 @@
-<p>
-<img src="https://github.com/brkfun/brkfun/raw/main/imageedit_2_4539523295.gif" height="150"/>
-</p>
-
 **Yo!** I'm a `G.O.A.T` focused on *Every shit that i've playing with* , *Docker* , *Kubernetes* , 
-*Laravel PHP Framework* and *OTHERS* Kappa. Not a revolutionary person but want to know everything latest 
+*Laravel PHP Framework* and *OTHERS*. Not a revolutionary person but want to know everything latest.
 
 I was at the way ***"you've been in"*** scared from coding because of the, quote on quote **old DEVELOPERS**.
-we are in the same path, but if you turn at the wrong side of quality i will be there to drop you dead.
-
-I'm ruthless, I'm dangerous, I'm serial killer nothing more than that. 
+we are in the same path.
 
 I'm not a developer, i am an artist who designs the best mechanic possible at the time around for the deadline. 
 
 I'm not professional, professions you've been looking for, already becomes **Curse** for me.
 
-I'm an athlete which doesnt try to run faster try to run stable and act always trouble. My motto always will be;
-``If everyone tells you "You are perfect" that means you are not perfect enough, but if everyone hates you that means you are perfect.``
+I'm an athlete which doesnt try to run faster try to run stable.
 
 ## Real Contributions
 
 - I've already committed on linux kernel ``fixing the thinkbook issue``
+- I've already committed on linux kernel ``fixing the lenovo fingerprint sensor``
 
 ## Last stations i stand on
 
-- I've already worked for Clevel Team ``As Developer, DevOps & DevSecOps`` from May 2019 to now
+- I've already worked for Aloware ``As Developer`` from Jan 2022 to now 
+- I've already worked for Clevel Team ``As Developer, DevOps & DevSecOps`` from May 2019 to Jan 2022 
 - I've already worked for 360DRCTech Team ``As a Developer & DevOps`` for 3 months
 - I've already worked for Erstream Team ``As a Developer`` for 8 months
 - And more...
