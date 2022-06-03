@@ -1,5 +1,5 @@
-**Yo!** I'm a `G.O.A.T` focused on *Every shit that i've playing with* , *Docker* , *Kubernetes* , 
-*Laravel PHP Framework* and *OTHERS*. Not a revolutionary person but want to know everything latest.
+**Yo!** I'm a `G.O.A.T` focused on *Everything that i've playing with* , *Docker* , *Kubernetes* , 
+*Laravel PHP Framework* , *Node* , *Python* and *OTHERS*. Not a revolutionary person but want to know everything latest.
 
 I was at the way ***"you've been in"*** scared from coding because of the, quote on quote **old DEVELOPERS**.
 we are in the same path.
