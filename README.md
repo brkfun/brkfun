@@ -17,7 +17,8 @@ I'm an athlete which doesnt try to run faster try to run stable.
 
 ## Last stations i stand on
 
-- I've already worked for Aloware ``As Developer`` from Jan 2022 to now 
+- I'm working for Parkos ``As Developer`` from Aug 2022 to now 
+- I've already worked for Aloware ``As Developer`` from Jan 2022 to Aug 2022 
 - I've already worked for Clevel Team ``As Developer, DevOps & DevSecOps`` from May 2019 to Jan 2022 
 - I've already worked for 360DRCTech Team ``As a Developer & DevOps`` for 3 months
 - I've already worked for Erstream Team ``As a Developer`` for 8 months
