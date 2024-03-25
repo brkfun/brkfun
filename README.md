@@ -10,15 +10,17 @@ I'm not professional, professions you've been looking for, already becomes **Cur
 
 I'm an athlete which doesnt try to run faster try to run stable.
 
-## Real Contributions
+## Contributions that not included at my github
 
 - I've already committed on linux kernel ``fixing the thinkbook issue``
 - I've already committed on linux kernel ``fixing the lenovo fingerprint sensor``
 
 ## Last stations i stand on
 
-- I'm working for Parkos ``As Developer`` from Aug 2022 to now 
-- I've already worked for Aloware ``As Developer`` from Jan 2022 to Aug 2022 
+- I'm working for My Company <a href="https://brf.sh/">BRF Tech</a> ``As Owner`` from March 2023 to now
+- I'm working for Monotech ``As DevSecOps`` from March 2023 to now 
+- I'm working for Parkos ``As Developer & DevOps`` from Aug 2022 to March 2023 
+- I've already worked for Aloware ``As Developer & DevOps`` from Jan 2022 to Aug 2022 
 - I've already worked for Clevel Team ``As Developer, DevOps & DevSecOps`` from May 2019 to Jan 2022 
 - I've already worked for 360DRCTech Team ``As a Developer & DevOps`` for 3 months
 - I've already worked for Erstream Team ``As a Developer`` for 8 months
