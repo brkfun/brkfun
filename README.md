@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Burak%20Faruk%20%C5%9Eahin&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Senior%20DevSecOps%20%C2%B7%20Platform%20Engineer%20%C2%B7%20Founder%20%40%20brf.sh&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=46&lines=12%2B+years+shipping+production+infrastructure;Building+runr.sh+%E2%80%94+open-source+serverless+%2B+AI+on+Knative;Don%27t+run+faster.+Run+stable." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=46&lines=12%2B+years+shipping+production+infrastructure;filex.sh+%E2%80%94+the+file+manager+that+embeds+anywhere+(MIT);Building+runr.sh+%E2%80%94+open-source+serverless+%2B+AI+on+Knative;Don%27t+run+faster.+Run+stable." alt="typing" />
 </a>
 
 <p>
@@ -26,7 +26,8 @@ Role:          Senior DevSecOps & Platform Engineer
 Founder:       brf.sh — solo DevSecOps consultancy
 Status:        Running   (uptime: 12y, restarts: 0, OOMKills: 0)
 Strategy:      Stable > Fast
-Currently:     Cooking runr.sh — open-source serverless + AI on Knative
+Currently:     Shipped filex.sh — open-source file manager (MIT)
+               Cooking runr.sh — open-source serverless + AI on Knative
 Philosophy:    "I'm not a developer. I'm an artist who designs the
                 cleanest mechanic that fits the deadline and ships it."
 ```
@@ -37,6 +38,10 @@ Philosophy:    "I'm not a developer. I'm an artist who designs the
 
 <table>
 <tr>
+<td width="220"><b><a href="https://filex.sh"><code>filex</code></a></b> <sub>(released · MIT)</sub><br><sub>Creator &amp; sole engineer</sub></td>
+<td>Self-hosted file manager that <b>embeds anywhere</b> — single Go binary, Vue/React/web-component UI, 5 storage drivers, real-time collab, RBAC, native multi-tenancy and a built-in <b>MCP server</b> for AI agents. <a href="https://filex.sh">filex.sh</a> · <a href="https://github.com/BRF-Tech/filex">GitHub</a> · <a href="https://demo.filex.sh">live demo</a></td>
+</tr>
+<tr>
 <td width="220"><b><a href="https://brf.sh">BRF Tech</a></b><br><sub>DevSecOps consultancy</sub></td>
 <td>Kubernetes · CI/CD · Terraform · observability · security hardening · AI/agent integration. 25-area service catalog with tiered pricing.</td>
 </tr>
@@ -46,7 +51,7 @@ Philosophy:    "I'm not a developer. I'm an artist who designs the
 </tr>
 <tr>
 <td><b>Self-hosted lab</b><br><sub>Production-grade homelab</sub></td>
-<td>K8s 1.24 + Knative + Traefik + Longhorn + Kata. Running Outline · AppFlowy · Stalwart · Nextcloud · Element/Matrix · plugNmeet · Sentry · Zot · LLM gateway · <b><code>filex</code></b> (in dev).</td>
+<td>K8s 1.24 + Knative + Traefik + Longhorn + Kata. Running Outline · AppFlowy · Stalwart · Nextcloud · Element/Matrix · plugNmeet · Sentry · Zot · LLM gateway · <b><a href="https://filex.sh"><code>filex</code></a></b>.</td>
 </tr>
 </table>
 
@@ -72,7 +77,7 @@ Philosophy:    "I'm not a developer. I'm an artist who designs the
 - ⚡ **`runr.sh`** — open-source serverless + AI platform *(sole engineer)*
 - 🔌 **`mcp-outline`** — Model Context Protocol server for Outline
 - 🎧 **`bsv3-sidetone`** — reverse-engineered Razer BlackShark V3 Pro USB control transfers (Python · Typer · hidapi · pystray) — flip headset sidetone without Razer Synapse
-- 📂 **`filex`** *(in development)* — multi-backend file explorer with three-layer storage abstraction (S3 / NAS / local). Inspired by SeaweedFS, MinIO, JuiceFS
+- 📂 **[`filex`](https://github.com/BRF-Tech/filex)** — self-hosted file manager that embeds anywhere *(creator & sole engineer)* — Go + Vue/React/web-component, built-in MCP server, MIT · [filex.sh](https://filex.sh) · [live demo](https://demo.filex.sh)
 - 📦 **[`notification-options`](https://github.com/brkfun/notification-options)** — Laravel package · fluent options builder for notifications
 - 🤝 **Merged PRs across the Laravel / Filament ecosystem** — [`lara-zeus/bolt`](https://github.com/lara-zeus/bolt/pull/259) *(Filament form builder)* · [`calebporzio/sushi`](https://github.com/calebporzio/sushi/pull/120) *(Laravel array-Eloquent)* · [`JetBrains/swot`](https://github.com/JetBrains/swot/pull/20264) *(academic-email validation — added a Turkish university)*
 
