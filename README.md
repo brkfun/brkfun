@@ -51,7 +51,7 @@ Philosophy:    "I'm not a developer. I'm an artist who designs the
 </tr>
 <tr>
 <td><b>Self-hosted lab</b><br><sub>Production-grade homelab</sub></td>
-<td>K8s 1.24 + Knative + Traefik + Longhorn + Kata. Running Outline · AppFlowy · Stalwart · Nextcloud · Element/Matrix · plugNmeet · Sentry · Zot · LLM gateway · <b><a href="https://filex.sh"><code>filex</code></a></b>.</td>
+<td>K8s 1.24 + Knative + Traefik + Longhorn + Kata. Running Outline · AppFlowy · Stalwart · Element/Matrix · plugNmeet · Sentry · Zot · LLM gateway · <b><a href="https://filex.sh"><code>filex</code></a></b>.</td>
 </tr>
 </table>
 
